@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deonhrf&theme=dark&layout=compact&card_width=500&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deonhrf&theme=dark&layout=compact&card_width=500&langs_count=10)
 <br><br>
-![Profile Views](https://komarev.com/ghpvc/?username=Deonhrf&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=deonhrf&label=Profile%20Views&color=0e75b6&style=flat)
