@@ -37,12 +37,12 @@ Joining the Informatics Study Club has provided me with a valuable opportunity t
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.instagram.com/deonhrf_/?utm_source=q#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.instagram.com/deonhrf_/?utm_source=qr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/deon-harefa-b4785a324/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/deon-harefa-b4785a324/r#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/deonhrf_/?utm_source=qr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/deonhrf_/?utm_source=qr#gh-dark-mode-only)
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/Deonhrf/Deonhrf
