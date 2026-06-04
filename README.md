@@ -1,7 +1,7 @@
 # Hi there, I'm [Deon Harefa]() 👋
 ## About me:
-- 🔭 I’m currently learning as Data Science
-- 👯 I’m currently learning Web development using Django
+- 🔭 I’m currently learning as AI
+- 👯 I’m currently learning Web development using Flask
 - 🌱 I’m currently learning Sql & Excel
 - 🤔 Give me suggestions for my future development
 - 💬 Ask me about anything
