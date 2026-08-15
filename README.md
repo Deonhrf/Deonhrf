@@ -9,7 +9,7 @@
 
 ## Education:
 
-#### 1. [Universitas Pamulang](https://pmb.unpam.ac.id/?fbclid=PAZXh0bgNhZW0CMTEAAabbbTLAr3KedFfyDI6N-q8M4TZK7xYcoCWeXa_lpobpH7rgKxDdPlKJ-3c_aem_B29E0lKBUO0fnNN50z7T4g) | Bachelor of Computer Science | Tangerang Selatan `2023 - Now`
+#### 1. [Universitas Pamulang](https://pmb.unpam.ac.id/?fbclid=PAZXh0bgNhZW0CMTEAAabbbTLAr3KedFfyDI6N-q8M4TZK7xYcoCWeXa_lpobpH7rgKxDdPlKJ-3c_aem_B29E0lKBUO0fnNN50z7T4g) | Bachelor of Computer Science | Tangerang Selatan `2023 - 2025`
 The Computer Engineering program prepares students to understand and develop information technology and computer systems. Students are trained in programming, software development, and database management. They also learn about computer networks, cybersecurity, and data analysis. Logical thinking and problem-solving skills are heavily emphasized, which are crucial for facing challenges in the technology world. With this foundation, graduates are ready to pursue careers in various sectors, including IT, application development, and technology research.
 
  #### 2. [SMA Negeri 3 Gunungsitoli](https://www.sman3gusit.sch.id) | MIPA | Sumatera Utara `2019-2022`
