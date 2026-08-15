@@ -2,7 +2,7 @@
 ## About me:
 - 🔭 I’m currently learning as AI
 - 👯 I’m currently learning Web development using Flask
-- 🌱 I’m currently learning Sql & Excel
+- 🌱 I’m currently learning RAG + NLP
 - 🤔 Give me suggestions for my future development
 - 💬 Ask me about anything
 - 📫 How to reach me: gideontrimanharefa12@gmail.com
@@ -28,13 +28,16 @@ Joining the Informatics Study Club has provided me with a valuable opportunity t
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Django" width="30px" src="https://th.bing.com/th?id=ODLS.8e6fab80-e9ab-4e30-beaf-c276a4d0f16f&w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Flask" width="30px" src="https://skillicons.dev/icons?i=flask" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Numpy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="PyTorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="TensorFlow" width="30px" src="https://skillicons.dev/icons?i=tensorflow" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Scikit-learn" width="30px" src="https://skillicons.dev/icons?i=sklearn" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Jupyter" width="30px" src="https://skillicons.dev/icons?i=jupyter" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Git" width="30px" src="https://skillicons.dev/icons?i=git" style="padding-right:10px;" />][webdev]
 
 
 
