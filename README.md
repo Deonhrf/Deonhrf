@@ -36,7 +36,7 @@ Joining the Informatics Study Club has provided me with a valuable opportunity t
 [<img align="left" alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="TensorFlow" width="30px" src="https://skillicons.dev/icons?i=tensorflow" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Scikit-learn" width="30px" src="https://skillicons.dev/icons?i=sklearn" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Jupyter" width="30px" src="https://skillicons.dev/icons?i=jupyter" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Git" width="30px" src="https://skillicons.dev/icons?i=git" style="padding-right:10px;" />][webdev]
 
 
